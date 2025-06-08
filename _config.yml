@@ -22,7 +22,7 @@ repository               : "Misery-H/Misery-H.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "0.png"
   name             : "Hanxiao YE"
   pronouns         : # example: "she/her"  
   bio              : "Lola is a MSc student in the Department of Marketing at CUHK."
