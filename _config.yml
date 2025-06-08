@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Academic Page"
+title                    : "Lola's Page"
 title_separator          : "-"
 name                     : &name "Lola YE"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "Misery-H/Misery-H.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hanxiao YE"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Lola is a MSc student in the Department of Marketing at CUHK."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
