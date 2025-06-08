@@ -9,11 +9,47 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<h2 id="2025" class="archive__subtitle">2025</h2>
+
+<article class="archive-single">
+  <h3 class="archive-single__title">花朝</h3>
+  <div class="archive-single__excerpt">
+    春风拂面花初绽，<br/>
+    柳絮轻扬舞蝶眠。<br/>
+    芳草碧连天一色，<br/>
+    小桥流水织梦旋。
+  </div>
+</article>
+
+<article class="archive-single">
+  <h3 class="archive-single__title">夜思</h3>
+  <div class="archive-single__excerpt">
+    烛影摇红映孤身，<br/>
+    檐前琴音诉人心。<br/>
+    轻叩云扉思故里，<br/>
+    星河遥寄月盈轮。
+  </div>
+</article>
+
+<h2 id="2024" class="archive__subtitle">2024</h2>
+
+<article class="archive-single">
+  <h3 class="archive-single__title">听雨</h3>
+  <div class="archive-single__excerpt">
+    帘外细雨织轻帆，<br/>
+    一盏茶香温梦寒。<br/>
+    静听水声连夜修，<br/>
+    心随烟雨寄天阑。
+  </div>
+</article>
+
+<article class="archive-single">
+  <h3 class="archive-single__title">晓行</h3>
+  <div class="archive-single__excerpt">
+    晨露点叶映初曦，<br/>
+    疏钟悠远破懒思。<br/>
+    行人微步花间路，<br/>
+    青山无语绿成诗。
+  </div>
+</article>

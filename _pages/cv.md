@@ -49,7 +49,7 @@ Project experience
 * **Fall 2022** — Team Leader, “ICBC Cup” National FinTech Innovation Competition, Beijing, China  
   * Led a 3-person team to design “MoveEHome” app for urban housing renovation  
   * Surveyed 200 households and conducted 20 in-depth interviews to map user needs  
-  * Designed Figma prototypes; project ranked 6th nationally out of 8,600 entries :contentReference[oaicite:9]{index=9}
+  * Designed Figma prototypes; project ranked 6th nationally out of 8,600 entries 
 
 Skills
 ======
