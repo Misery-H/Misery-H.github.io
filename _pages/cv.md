@@ -11,54 +11,69 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Marketing, The Chinese University of Hong Kong, 08.2024–06.2025, GPA: 3.74/4.00 :contentReference[oaicite:0]{index=0}  
+* Bachelor of Finance, Renmin University of China, 09.2020–06.2024 :contentReference[oaicite:1]{index=1}  
+* Bachelor of Business Management (Exchange), Kedge Business School, France, 09.2022–06.2023 :contentReference[oaicite:2]{index=2}  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Spring 2024** — User Strategy Intern, Ximalaya Technology  
+  * One of the largest audio‐app companies in China  
+  * Conducted 3,000 + user questionnaires and interviews to diagnose churn; analyzed data and reported insights  
+  * Performed desk research and SWOT analysis to assess Arabic audiobook market potential :contentReference[oaicite:3]{index=3}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Winter 2023–2024** — Marketing Director Assistant, Yongzheng Asset Management  
+  * 2024 Jun Ding Award–winning emerging AMC  
+  * Orchestrated cross‐departmental efforts for new product launches; crafted introductions and posters  
+  * Produced weekly net-value and revenue reports; optimized Excel templates, boosting efficiency by 50%  
+  * Researched listed companies to refine sales training; organized private-equity exchanges for 30 HNW clients :contentReference[oaicite:4]{index=4}
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Summer 2023** — Digital Marketing Intern, Chicmax Group (Baby Elephant brand)  
+  * Conducted targeted user research and competitor analysis for new product launch  
+  * Launched 12-episode educational series with East China Normal University (500 k+ views)  
+  * Partnered with Douyin KOL on 12-episode short dramas, averaging 200 k likes per episode (peak 568 k) :contentReference[oaicite:5]{index=5}
+
+* **Spring 2023** — Marketing Intern, LVMH Group (Louis Vuitton)  
+  * Evaluated luxury-watch market trends; recommended promotional initiatives on Douyin & WeChat  
+  * Assessed pricing and style trends of children’s luxury watches; advocated smartwatches as entry-level luxury :contentReference[oaicite:6]{index=6}
+
+* **Fall 2022–Winter 2023** — Real Estate Research Intern, Kaiyuan Securities  
+  * Authored two company commentary reports and contributed to full equity-analysis reports  
+  * Updated databases in Excel; collected data via Wind, CREIS, and Python web scraping :contentReference[oaicite:7]{index=7}
+
+Project experience
+======
+* **Spring 2023** — University–Industry Collaboration for Marseille City Tourism Office, France  
+  * Conducted PEST analysis and on-site interviews; delivered post-COVID marketing recommendations, driving a 15% increase in page views :contentReference[oaicite:8]{index=8}
+
+* **Fall 2022** — Team Leader, “ICBC Cup” National FinTech Innovation Competition, Beijing, China  
+  * Led a 3-person team to design “MoveEHome” app for urban housing renovation  
+  * Surveyed 200 households and conducted 20 in-depth interviews to map user needs  
+  * Designed Figma prototypes; project ranked 6th nationally out of 8,600 entries :contentReference[oaicite:9]{index=9}
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** Mandarin (Native), English (Fluent), Cantonese (Basic) :contentReference[oaicite:10]{index=10}  
+* **Tools & Technologies:** Microsoft Office, R, Python, SQL :contentReference[oaicite:11]{index=11}  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}  
+  {% include archive-single-cv.html %}  
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}  
+  {% include archive-single-talk-cv.html %}  
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.teaching reversed %}  
+  {% include archive-single-cv.html %}  
+{% endfor %}</ul>
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Team Leader, “ICBC Cup” National FinTech Innovation Competition (6th place nationally among 8,600 entries) :contentReference[oaicite:12]{index=12}
