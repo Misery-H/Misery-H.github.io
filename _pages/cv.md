@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Marketing, The Chinese University of Hong Kong, 08.2024–06.2025, GPA: 3.74/4.00 :contentReference[oaicite:0]{index=0}  
-* Bachelor of Finance, Renmin University of China, 09.2020–06.2024 :contentReference[oaicite:1]{index=1}  
-* Bachelor of Business Management (Exchange), Kedge Business School, France, 09.2022–06.2023 :contentReference[oaicite:2]{index=2}  
+* Master of Science in Marketing, The Chinese University of Hong Kong, 08.2024–06.2025, GPA: 3.74/4.00 
+* Bachelor of Finance, Renmin University of China, 09.2020–06.2024  
+* Bachelor of Business Management (Exchange), Kedge Business School, France, 09.2022–06.2023  
 
 Work experience
 ======
 * **Spring 2024** — User Strategy Intern, Ximalaya Technology  
   * One of the largest audio‐app companies in China  
   * Conducted 3,000 + user questionnaires and interviews to diagnose churn; analyzed data and reported insights  
-  * Performed desk research and SWOT analysis to assess Arabic audiobook market potential :contentReference[oaicite:3]{index=3}
+  * Performed desk research and SWOT analysis to assess Arabic audiobook market potential 
 
 * **Winter 2023–2024** — Marketing Director Assistant, Yongzheng Asset Management  
   * 2024 Jun Ding Award–winning emerging AMC  
   * Orchestrated cross‐departmental efforts for new product launches; crafted introductions and posters  
   * Produced weekly net-value and revenue reports; optimized Excel templates, boosting efficiency by 50%  
-  * Researched listed companies to refine sales training; organized private-equity exchanges for 30 HNW clients :contentReference[oaicite:4]{index=4}
+  * Researched listed companies to refine sales training; organized private-equity exchanges for 30 HNW clients 
 
 * **Summer 2023** — Digital Marketing Intern, Chicmax Group (Baby Elephant brand)  
   * Conducted targeted user research and competitor analysis for new product launch  
   * Launched 12-episode educational series with East China Normal University (500 k+ views)  
-  * Partnered with Douyin KOL on 12-episode short dramas, averaging 200 k likes per episode (peak 568 k) :contentReference[oaicite:5]{index=5}
+  * Partnered with Douyin KOL on 12-episode short dramas, averaging 200 k likes per episode (peak 568 k) 
 
 * **Spring 2023** — Marketing Intern, LVMH Group (Louis Vuitton)  
   * Evaluated luxury-watch market trends; recommended promotional initiatives on Douyin & WeChat  
-  * Assessed pricing and style trends of children’s luxury watches; advocated smartwatches as entry-level luxury :contentReference[oaicite:6]{index=6}
+  * Assessed pricing and style trends of children’s luxury watches; advocated smartwatches as entry-level luxury 
 
 * **Fall 2022–Winter 2023** — Real Estate Research Intern, Kaiyuan Securities  
   * Authored two company commentary reports and contributed to full equity-analysis reports  
-  * Updated databases in Excel; collected data via Wind, CREIS, and Python web scraping :contentReference[oaicite:7]{index=7}
+  * Updated databases in Excel; collected data via Wind, CREIS, and Python web scraping 
 
 Project experience
 ======
@@ -53,27 +53,10 @@ Project experience
 
 Skills
 ======
-* **Languages:** Mandarin (Native), English (Fluent), Cantonese (Basic) :contentReference[oaicite:10]{index=10}  
-* **Tools & Technologies:** Microsoft Office, R, Python, SQL :contentReference[oaicite:11]{index=11}  
+* **Languages:** Mandarin (Native), English (Fluent), Cantonese (Basic)  
+* **Tools & Technologies:** Microsoft Office, R, Python, SQL 
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}  
-  {% include archive-single-cv.html %}  
-{% endfor %}</ul>
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}  
-  {% include archive-single-talk-cv.html %}  
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}  
-  {% include archive-single-cv.html %}  
-{% endfor %}</ul>
 
 Service and leadership
 ======
-* Team Leader, “ICBC Cup” National FinTech Innovation Competition (6th place nationally among 8,600 entries) :contentReference[oaicite:12]{index=12}
+* Team Leader, “ICBC Cup” National FinTech Innovation Competition (6th place nationally among 8,600 entries) 
